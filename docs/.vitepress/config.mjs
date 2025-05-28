@@ -14,7 +14,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '关于', link: '/about' },
-      { text: 'GitHub', link: 'https://github.com/yourusername/my-dynamic-book' }
+      { text: 'GitHub', link: 'https://github.com/Zhanbingli/my_ebook' }
     ],
 
     // 侧边栏

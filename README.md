@@ -1,6 +1,6 @@
 # 我的动态书籍 📚
 
-[![部署状态](https://github.com/yourusername/my-dynamic-book/workflows/部署动态书籍/badge.svg)](https://github.com/yourusername/my-dynamic-book/actions)
+[![部署状态](https://github.com/Zhanbingli/my_ebook/workflows/部署动态书籍/badge.svg)](https://github.com/Zhanbingli/my_ebook/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > 基于GitHub的动态更新书籍 - 展示如何使用现代技术栈创建可协作的数字出版物
@@ -45,8 +45,8 @@ docs/
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/yourusername/my-dynamic-book.git
-   cd my-dynamic-book
+   git clone https://github.com/Zhanbingli/my_ebook.git
+   cd my_ebook
    ```
 
 2. **安装依赖**
@@ -132,7 +132,7 @@ export default defineConfig({
 
 **自定义域名部署**：
 
-1. 在DNS管理面板添加CNAME记录：`book -> yourusername.github.io` （替换yourusername为您的GitHub用户名）
+1. 在DNS管理面板添加CNAME记录：`book -> Zhanbingli.github.io`
 2. 进入仓库的 Settings -> Pages
 3. 在 "Custom domain" 填入：`book.zhanbing.site`
 4. 勾选 "Enforce HTTPS"
@@ -189,8 +189,8 @@ export default defineConfig({
 
 感谢所有为这个项目做出贡献的人！
 
-<a href="https://github.com/yourusername/my-dynamic-book/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yourusername/my-dynamic-book" />
+<a href="https://github.com/Zhanbingli/my_ebook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Zhanbingli/my_ebook" />
 </a>
 
 ## 📞 联系方式
@@ -210,4 +210,4 @@ export default defineConfig({
 
 **喜欢这个项目？给个⭐️支持一下！**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/my-dynamic-book&type=Date)](https://star-history.com/#yourusername/my-dynamic-book&Date) 
+[![Star History Chart](https://api.star-history.com/svg?repos=Zhanbingli/my_ebook&type=Date)](https://star-history.com/#Zhanbingli/my_ebook&Date) 
