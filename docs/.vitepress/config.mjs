@@ -39,13 +39,13 @@ export default defineConfig({
 
     // 社交链接
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yourusername/my-dynamic-book' }
+      { icon: 'github', link: 'https://github.com/Zhanbingli/my_ebook' }
     ],
 
     // 页脚
     footer: {
       message: '基于 VitePress 构建',
-      copyright: 'Copyright © 2024 Your Name'
+      copyright: 'Copyright © 2024 Zhanbing Li'
     },
 
     // 搜索
@@ -75,7 +75,7 @@ export default defineConfig({
 
     // 编辑链接
     editLink: {
-      pattern: 'https://github.com/yourusername/my-dynamic-book/edit/main/docs/:path',
+      pattern: 'https://github.com/Zhanbingli/my_ebook/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页面'
     },
 
