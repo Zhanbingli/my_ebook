@@ -1,0 +1,27 @@
+{
+  "name": "my-dynamic-book",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "我的动态更新书籍",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "deploy": "npm run build && gh-pages -d docs/.vitepress/dist"
+  },
+  "dependencies": {
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0",
+    "gh-pages": "^6.1.0"
+  },
+  "keywords": [
+    "book",
+    "vitepress",
+    "markdown",
+    "documentation"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+} 

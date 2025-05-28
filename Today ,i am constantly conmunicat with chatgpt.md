@@ -1,0 +1,3 @@
+Today ,i am constantly conmunicat with chatgpt. He told me translate reader into producer .i think its inspect very important and else great truth. i believe it   will become more smarter than human in the future .
+
+Today, I’ve been communicating with ChatGPT a lot. It told me to **"transform from a reader into a producer."** I think this insight is very important and holds a profound truth. I believe it will become even smarter than humans in the future.

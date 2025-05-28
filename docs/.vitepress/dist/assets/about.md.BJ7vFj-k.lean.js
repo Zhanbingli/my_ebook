@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as r,ag as l}from"./chunks/framework.DK1-H3E1.js";const d=JSON.parse('{"title":"关于","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md","lastUpdated":null}'),n={name:"about.md"};function e(t,a,o,h,u,g){return r(),i("div",null,a[0]||(a[0]=[l("",55)]))}const c=s(n,[["render",e]]);export{d as __pageData,c as default};
