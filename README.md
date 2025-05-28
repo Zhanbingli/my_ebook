@@ -195,9 +195,9 @@ export default defineConfig({
 
 ## 📞 联系方式
 
-- 📧 Email: your.email@example.com  
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 💼 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: zhanbing2025@gmail.com  
+- 🐦 Twitter: [@yourusername](https://twitter.com/lizhanning)
+- 💼 LinkedIn: [yourprofile](https://linkedin.com/in/)
 
 ## 🙏 致谢
 

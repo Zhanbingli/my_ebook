@@ -248,7 +248,7 @@ function example() {
 - 问题求助
 
 ### Email联系
-- 紧急问题：your.email@example.com
+- 紧急问题：zhanbing2025@gmail.com
 - 私人讨论和合作提议
 
 ## 📋 常见问题
@@ -284,8 +284,8 @@ A:
 
 准备好开始贡献了吗？
 
-1. 🍴 [Fork这个仓库](https://github.com/yourusername/my-dynamic-book/fork)
-2. 💡 [查看当前Issues](https://github.com/yourusername/my-dynamic-book/issues)
-3. 💬 [参与讨论](https://github.com/yourusername/my-dynamic-book/discussions)
+1. 🍴 [Fork这个仓库](https://github.com/zhanbingli/my-dynamic-book/fork)
+2. 💡 [查看当前Issues](https://github.com/zhanbingli/my-dynamic-book/issues)
+3. 💬 [参与讨论](https://github.com/zhanbingli/my-dynamic-book/discussions)
 
 **感谢您的贡献！** 🙏 

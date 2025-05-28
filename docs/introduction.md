@@ -99,7 +99,7 @@ graph TB
 我们欢迎各种形式的贡献：
 
 ### 🐛 报告问题
-发现错误或有改进建议？请[创建Issue](https://github.com/yourusername/my-dynamic-book/issues)
+发现错误或有改进建议？请[创建Issue](https://github.com/zhanbingli/my-dynamic-book/issues)
 
 ### ✏️ 内容贡献
 想要贡献内容？请：
@@ -109,7 +109,7 @@ graph TB
 4. 提交Pull Request
 
 ### 💡 想法和建议
-通过[Discussions](https://github.com/yourusername/my-dynamic-book/discussions)分享想法
+通过[Discussions](https://github.com/zhanbingli/my-dynamic-book/discussions)分享想法
 
 ## 阅读指南
 
@@ -149,9 +149,8 @@ graph TB
 
 如果您有任何问题或建议，可以通过以下方式联系：
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: @yourusername
-- 💼 LinkedIn: yourprofile
+- 📧 Email: zhanbing2025@gmail.com
+
 
 ---
 
