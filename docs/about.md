@@ -102,14 +102,13 @@ graph TB
 如果你对这个项目感兴趣，或者有任何建议和想法，欢迎联系我：
 
 ### 在线交流
-- 📧 **Email**: your.email@example.com
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- 💼 **LinkedIn**: [yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 **Email**: zhanbing2025@gmail.com
+- 🐦 **Twitter**: [@lizhanning](https://twitter.com/lizhanning)
 
 ### 项目相关
-- 🐙 **GitHub**: [项目仓库](https://github.com/yourusername/my-dynamic-book)
-- 💬 **讨论**: [GitHub Discussions](https://github.com/yourusername/my-dynamic-book/discussions)
-- 🐛 **问题反馈**: [GitHub Issues](https://github.com/yourusername/my-dynamic-book/issues)
+- 🐙 **GitHub**: [项目仓库](https://github.com/zhanbingli/my-dynamic-book)
+- 💬 **讨论**: [GitHub Discussions](https://github.com/zhanbingli/my-dynamic-book/discussions)
+- 🐛 **问题反馈**: [GitHub Issues](https://github.com/zhanbingli/my-dynamic-book/issues)
 
 ## 致谢
 

@@ -2,7 +2,7 @@
 
 ::: info 章节信息
 **原标题**: The Permanence of Change: Reimagining Educational Paradigms in the AI Era  
-**更新时间**: 2024年1月  
+**更新时间**: 2025年5月  
 **阅读时间**: 约30分钟  
 :::
 
