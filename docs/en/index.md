@@ -3,99 +3,85 @@ layout: home
 
 hero:
   name: "Dr. Li Zhanbing's Knowledge Base"
-  text: "Where Medicine Meets AI"
-  tagline: Documenting with care, sharing with wisdom, spreading knowledge like a physician's compassion
+  text: "Where clinical rigor meets intelligent systems"
+  tagline: "Designed for physicians, researchers, and makers who explore medicine with an AI-native mindset."
   image:
     src: /logo.png
-    alt: Dr. Li Zhanbing's Knowledge Base Logo
+    alt: Knowledge base logo
   actions:
     - theme: brand
-      text: Start Reading
+      text: 🚀 Start exploring
       link: /en/introduction
     - theme: alt
-      text: View on GitHub
+      text: 🔍 Project vision
+      link: /en/about
+    - theme: alt
+      text: ⭐️ GitHub
       link: https://github.com/Zhanbingli/my_ebook
 
 features:
-  - icon: 🩺
-    title: Medical Insights
-    details: Combining clinical experience with academic research, sharing cutting-edge medical developments and practical insights to make professional knowledge more accessible.
-  
-  - icon: 🤖
-    title: AI Exploration
-    details: Exploring the prospects of artificial intelligence in healthcare, documenting thoughtful dialogues with AI, and envisioning the future of intelligent medicine.
-  
-  - icon: 📚
-    title: Dynamic Updates
-    details: Built on GitHub's version control system, the knowledge base is continuously updated and refined to ensure content timeliness and accuracy.
-  
-  - icon: 🔬
-    title: Evidence-Based Thinking
-    details: Upholding the spirit of evidence-based medicine, speaking with data, verifying with facts, ensuring every piece of knowledge stands up to scrutiny.
-  
-  - icon: 🌐
-    title: Open Collaboration
-    details: Welcoming contributions from fellow experts and scholars, collectively building a more comprehensive knowledge system through Pull Requests.
-  
-  - icon: 🎯
-    title: Practice-Oriented
-    details: Combining theory with practice, not only academic depth but also real-world applications, making knowledge truly serve patients and society.
+  - icon: 🧭
+    title: Curated knowledge graph
+    details: Navigate cross-disciplinary insights that connect medicine, research, and AI workflows.
+  - icon: ⚙️
+    title: Living publication
+    details: Git-powered releases keep the content transparent, versioned, and always up to date.
+  - icon: 🌙
+    title: Immersive interface
+    details: A refined UI, dark-mode aware, tailored for long-form reading and exploration.
 ---
 
-## 🌟 What is a Dynamic Knowledge Base?
+## 📌 Featured tracks
 
-This is not just an e-book, but a **living knowledge ecosystem**. It integrates medical expertise, AI technology exploration, and personal learning insights, achieving real-time updates and collaborative construction through GitHub's powerful features.
+<div class="home-panels">
+  <div class="home-panel">
+    <div class="home-panel__title">🩺 Clinics & Research</div>
+    <p class="home-panel__desc">Clinical reasoning frameworks, evidence-based reviews, and rapid takes on emerging studies.</p>
+    <a class="home-panel__link" href="/en/articles/research-paper">Read research notes</a>
+  </div>
+  <div class="home-panel">
+    <div class="home-panel__title">🤖 Intelligent toolchain</div>
+    <p class="home-panel__desc">Real-world experiments with conversational AI, automations, and decision support patterns.</p>
+    <a class="home-panel__link" href="/en/articles/chatgpt-communication">See applied AI logs</a>
+  </div>
+  <div class="home-panel">
+    <div class="home-panel__title">📚 Knowledge operations</div>
+    <p class="home-panel__desc">Curriculum design, learning pathways, and collaboration playbooks for multidisciplinary teams.</p>
+    <a class="home-panel__link" href="/en/contributing">Join the contribution guide</a>
+  </div>
+</div>
 
-## 🎯 Core Values
+## 📈 Signals
 
-- **💡 Physician's Heart**: Patient-centered approach, using professional knowledge to serve healthcare
-- **🔄 Staying Current**: Keeping pace with medical and AI frontiers, continuous learning and updating
-- **🤝 Open Sharing**: Knowledge sharing, academic borderless, promoting medical progress
-- **🧠 Critical Thinking**: Rational analysis, evidence-based decisions, pursuing truth
-- **💪 Practice-Oriented**: Theory meets reality, solving real-world problems
+<div class="home-metrics">
+  <div class="home-metric">
+    <strong>Bi-lingual</strong>
+    <span>Full parity between Simplified Chinese and English</span>
+  </div>
+  <div class="home-metric">
+    <strong>Always fresh</strong>
+    <span>GitHub Actions pushes every update in minutes</span>
+  </div>
+  <div class="home-metric">
+    <strong>Collaboration-ready</strong>
+    <span>Open PR workflow welcoming clinicians and engineers</span>
+  </div>
+</div>
 
-## 📋 Target Audience
+## 🌱 Principles & aspirations
 
-- **👨‍⚕️ Medical Professionals**: Clinicians, researchers, medical students
-- **🤖 AI Practitioners**: Tech professionals interested in medical AI
-- **📚 Academic Researchers**: Scholars in education, cognitive science
-- **💼 Healthcare Industry**: Medical device, pharmaceutical, health management professionals
-- **🧑‍🎓 Knowledge Seekers**: Learners interested in the intersection of medicine and AI
+> **Compassion meets computation.** This library is a continuously validated learning system—grounded in clinical reality, open to diverse expertise, and accelerated by intelligent tooling.
 
-## 🚀 Featured Content
+- 💡 Track the frontier where medicine intersects with AI ethics and practice
+- 🧭 Maintain a coherent roadmap of methods, glossaries, and playbooks
+- 🤝 Invite more voices to co-create and audit critical medical knowledge
 
-### 🩺 Clinical Thinking Meets AI
-Exploring how AI assists clinical decision-making, enhances diagnostic efficiency while maintaining humanistic care.
-
-### 📖 Educational Methodology
-Sharing innovative methods in medical education, integrating AI technology to improve learning experiences and teaching effectiveness.
-
-### 💬 AI Dialogue Chronicles
-Recording in-depth conversations with AI systems like ChatGPT, showcasing brilliant moments of intellectual collision.
-
-### 🔬 Cutting-edge Research Interpretation
-Analyzing the latest medical research findings, communicating professional knowledge in accessible language.
-
----
-
-<div style="text-align: center; margin: 2rem 0;">
-  <p><strong>Compassionate Heart, Intelligent Mind</strong></p>
-  <p style="font-size: 0.9em; color: #666;">Let's illuminate lives with knowledge and empower medicine with AI</p>
-  <a href="/en/introduction" style="
-    display: inline-block;
-    padding: 12px 24px;
-    background: linear-gradient(45deg, #4A90E2, #357ABD);
-    color: white;
-    text-decoration: none;
-    border-radius: 6px;
-    font-weight: 600;
-    transition: transform 0.2s;
-    margin-top: 1rem;
-  " onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-    🩺 Begin the Journey
+<div style="text-align: center; margin: 3rem 0 1rem;">
+  <a href="/en/introduction" class="VPButton brand" style="padding: 0.85rem 2.4rem; font-size: 1.05rem;">
+    Begin reading →
   </a>
 </div>
 
 ---
 
-> 💭 **Vision**: To build a knowledge platform where medicine and AI deeply converge, enabling professional knowledge to better serve human health, making technological progress truly benefit patients and society. 
+Bookmark the site or ⭐️ the repository for release notifications. New chapters surface first in the navigation and the update guide.

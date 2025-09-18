@@ -3,99 +3,85 @@ layout: home
 
 hero:
   name: "李占兵的知识库"
-  text: "医学与AI的智慧交融"
-  tagline: 用心记录，用智分享，让知识如医者仁心般传递
+  text: "医学与 AI 的智识融合"
+  tagline: "从临床洞察到智能前沿，以医生的严谨和工程师的想象力治理知识。"
   image:
     src: /logo.png
     alt: 李占兵博士的知识库标志
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 🚀 立即进入
       link: /introduction
     - theme: alt
-      text: 查看源码
+      text: 🔍 了解项目愿景
+      link: /about
+    - theme: alt
+      text: ⭐️ GitHub
       link: https://github.com/Zhanbingli/my_ebook
 
 features:
-  - icon: 🩺
-    title: 医学洞察
-    details: 结合临床经验与学术研究，分享医学前沿动态和实践心得，让专业知识更加accessible。
-  
-  - icon: 🤖
-    title: AI探索
-    details: 探讨人工智能在医疗领域的应用前景，记录与AI对话的思辨过程，展望智能医疗的未来。
-  
-  - icon: 📚
-    title: 动态更新
-    details: 基于GitHub的版本控制，知识库随时更新完善，确保内容的时效性和准确性。
-  
-  - icon: 🔬
-    title: 循证思维
-    details: 秉承循证医学精神，用数据说话，用事实验证，让每一份知识都经得起推敲。
-  
-  - icon: 🌐
-    title: 开放协作
-    details: 欢迎同行专家和学者贡献智慧，通过Pull Request共同构建更完善的知识体系。
-  
-  - icon: 🎯
-    title: 实用导向
-    details: 理论结合实践，不仅有学术深度，更关注现实应用，让知识真正服务于患者和社会。
+  - icon: 🧭
+    title: 结构化知识图谱
+    details: 多维度组织医学与 AI 知识脉络，方便探索与关联思维。
+  - icon: ⚙️
+    title: 持续演进的内容体系
+    details: 基于 Git 驱动的发布链路，版本透明、更新可追溯。
+  - icon: 🌙
+    title: 自适应现代界面
+    details: 定制化 UI 与暗色模式，让阅读体验沉浸顺滑。
 ---
 
-## 🌟 什么是动态知识库？
+## 📌 核心板块一览
 
-这不仅仅是一本电子书，而是一个**活跃的知识生态系统**。它融合了医学专业知识、AI技术探索和个人学习感悟，通过GitHub的强大功能实现实时更新和协作共建。
+<div class="home-panels">
+  <div class="home-panel">
+    <div class="home-panel__title">🩺 临床 × 科研</div>
+    <p class="home-panel__desc">精选医学案例、循证思维框架以及对热点研究的快速解读，兼顾临床逻辑与科研敏感度。</p>
+    <a class="home-panel__link" href="/articles/research-paper">探索研究随笔</a>
+  </div>
+  <div class="home-panel">
+    <div class="home-panel__title">🤖 智能工具箱</div>
+    <p class="home-panel__desc">记录与 AI 对话、工具链搭建以及自动化实验的经验，把智能助理真正纳入诊疗决策流程。</p>
+    <a class="home-panel__link" href="/articles/chatgpt-communication">查看 AI 实战手册</a>
+  </div>
+  <div class="home-panel">
+    <div class="home-panel__title">📚 知识运营</div>
+    <p class="home-panel__desc">沉淀学习路径、课程设计与社区协作指南，助力医学教育与知识管理的迭代升级。</p>
+    <a class="home-panel__link" href="/contributing">加入协作指南</a>
+  </div>
+</div>
 
-## 🎯 核心价值
+## 📈 项目脉动
 
-- **💡 医者初心**：以患者为中心，用专业知识服务健康事业
-- **🔄 与时俱进**：紧跟医学和AI发展前沿，持续学习更新
-- **🤝 开放分享**：知识共享，学术无界，促进医学进步
-- **🧠 批判思维**：理性分析，循证决策，追求真理
-- **💪 实践导向**：理论联系实际，解决现实问题
+<div class="home-metrics">
+  <div class="home-metric">
+    <strong>多语言</strong>
+    <span>支持中英文双语阅读体验</span>
+  </div>
+  <div class="home-metric">
+    <strong>即时更新</strong>
+    <span>依托 GitHub Actions 每次提交自动发布</span>
+  </div>
+  <div class="home-metric">
+    <strong>协作友好</strong>
+    <span>开放 PR 工作流，欢迎医生与工程师共建</span>
+  </div>
+</div>
 
-## 📋 适用人群
+## 🌱 立场与愿景
 
-- **👨‍⚕️ 医学工作者**：临床医生、研究人员、医学生
-- **🤖 AI从业者**：对医疗AI感兴趣的技术人员
-- **📚 学术研究者**：教育学、认知科学相关学者  
-- **💼 健康产业**：医疗器械、药企、健康管理从业者
-- **🧑‍🎓 求知者**：对医学和AI交叉领域感兴趣的学习者
+> **医者仁心，技术向善。** 在这里，知识不是静态文本，而是一套可验证、可引用、可再创造的学习系统。我们重视临床判断、尊重数据事实，也拥抱 AI 带来的新视角。
 
-## 🚀 特色内容
+- 💡 持续追踪医学与 AI 的交叉趋势
+- 🧭 构建自洽的知识路线图与实践手册
+- 🤝 让更多专长参与到医学知识的开放创制
 
-### 🩺 临床思维与AI融合
-探讨AI如何辅助临床决策，提升诊疗效率，同时保持医者的人文关怀。
-
-### 📖 教育方法论
-分享医学教育的创新方法，结合AI技术改进学习体验和教学效果。
-
-### 💬 AI对话录
-记录与ChatGPT等AI系统的深度对话，展现思维碰撞的精彩瞬间。
-
-### 🔬 前沿研究解读
-解析最新医学研究成果，用通俗语言传播专业知识。
-
----
-
-<div style="text-align: center; margin: 2rem 0;">
-  <p><strong>医者仁心，智者善用</strong></p>
-  <p style="font-size: 0.9em; color: #666;">让我们一起用知识点亮生命，用AI赋能医学</p>
-  <a href="/introduction" style="
-    display: inline-block;
-    padding: 12px 24px;
-    background: linear-gradient(45deg, #4A90E2, #357ABD);
-    color: white;
-    text-decoration: none;
-    border-radius: 6px;
-    font-weight: 600;
-    transition: transform 0.2s;
-    margin-top: 1rem;
-  " onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-    🩺 开启知识之旅
+<div style="text-align: center; margin: 3rem 0 1rem;">
+  <a href="/introduction" class="VPButton brand" style="padding: 0.85rem 2.4rem; font-size: 1.05rem;">
+    开始阅读 →
   </a>
 </div>
 
 ---
 
-> 💭 **愿景**: 构建一个医学与AI深度融合的知识平台，让专业知识更好地服务人类健康事业，让技术进步真正造福患者和社会。 
+如需关注更新，请收藏本站或在 GitHub ⭐️ 支持。新内容发布会在导航栏与更新指南中第一时间同步。
